@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626534285370",
+    "project_id": "testdatabase-d1eed",
+    "storage_bucket": "testdatabase-d1eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626534285370:android:0f442ea4b19f6e01acb503",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYEmJ_etCEKKz6OwwCz9iwKIrEf6P3AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
